@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Hi I'm Krutika G S
 I' m currently Learing Java DSA
 
 
